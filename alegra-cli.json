@@ -1,0 +1,15 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jjuanrivvera/alegra-cli/releases/download/v0.5.0/alegra-cli_0.5.0_windows_amd64.zip",
+            "bin": [
+                "alegra.exe"
+            ],
+            "hash": "f8953ac897b2a319d9217408672131c324f4b332d6d86fb8e3f62cbb2854f471"
+        }
+    },
+    "homepage": "https://github.com/jjuanrivvera/alegra-cli",
+    "license": "MIT",
+    "description": "Command-line interface for the Alegra accounting API"
+}
