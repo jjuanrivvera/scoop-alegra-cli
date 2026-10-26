@@ -1,12 +1,12 @@
 {
-    "version": "0.11.3",
+    "version": "0.11.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/alegra-cli/releases/download/v0.11.3/alegra-cli_0.11.3_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/alegra-cli/releases/download/v0.11.4/alegra-cli_0.11.4_windows_amd64.zip",
             "bin": [
                 "alegra.exe"
             ],
-            "hash": "0490e637a930a0077e7655c4c77ffa6b4d7f7f14c8aeb1c31762f148a8e5d234"
+            "hash": "871f5547655bbb53dc45b81c4a00de06f66fafa76522106ed01baffec9413c8a"
         }
     },
     "homepage": "https://github.com/jjuanrivvera/alegra-cli",
